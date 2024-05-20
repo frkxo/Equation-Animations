@@ -431,10 +431,10 @@ def main():
             plt.draw()
             plt.pause(0.0001)
             plt.clf()
+          
     
     if VISUALIZE:
         plt.show()
-
 
 
 if __name__ == "__main__":
